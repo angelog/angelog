@@ -29,6 +29,8 @@ Sou um desenvolvedor fullstack altamente motivado, com uma paixão pela criaçã
 
 ### Frameworks e Tecnologias
 - .NET
+- DJango
+- Flask
 - Vue.js
 - React
 - Next.js
