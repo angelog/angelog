@@ -14,48 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# **Gabriel Angelo**  
+**Tech Lead & Desenvolvedor FullStack**  
+Especializado em soluções web escaláveis e high-performance, combinando liderança técnica com expertise em desenvolvimento FullStack.  
 
-# Desenvolvedor Fullstack
+---
 
-## Sobre Mim
-Sou um desenvolvedor fullstack altamente motivado, com uma paixão pela criação de soluções robustas e escaláveis. Tenho experiência sólida em desenvolvimento de software utilizando uma variedade de tecnologias, tanto do lado do cliente quanto do servidor.
+## **🛠 Tecnologias & Ferramentas**  
 
-## Experiência
+### **Front-end**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Linguagens de Programação
-- JavaScript
-- Python
-- C#
+### **Back-end**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Frameworks e Tecnologias
-- .NET
-- DJango
-- Flask
-- Vue.js
-- React
-- Next.js
+### **Bancos de Dados & ORMs**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Ferramentas e Tecnologias Adicionais
-- Docker
-- RabbitMQ
-- Redis
-- ORM's (Object-Relational Mapping)
-- SQL Server
-- PostgreSQL
-- Oracle
+### **DevOps & Outras Ferramentas**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## Projetos Relevantes
-- Desenvolvimento e manutenção de sistemas financeiro usando Vue.js e C# com .NET Core.
-- Implementação de microsserviços em .NET Core, Python e Docker, utilizando RabbitMQ para comunicação entre os serviços.
-- Construção de APIs RESTful em Node.js.
-- Desenvolvimento de aplicações FullStack's com Next.js.
-- Integração de sistemas com bancos de dados Postgres e SQL Server, implementando camadas de acesso a dados eficientes usando ORM's como Entity Framework e Prisma.js.
+---
 
-## Educação
-- Tecnólogo em Banco de Dados.
-- Técnico em Automação Industrial.
+## **🚀 Projetos Relevantes**  
+- **Sistema Financeiro:** Desenvolvimento e manutenção com **Vue.js** e **C# .NET Core**.  
+- **Microsserviços:** Implementação em **.NET Core, Python e Docker**, utilizando **RabbitMQ** para comunicação assíncrona.  
+- **APIs RESTful:** Construção de endpoints escaláveis em **Node.js**.  
+- **Aplicações FullStack:** Desenvolvimento com **Next.js** e integração com bancos de dados relacionais.  
+- **Integração de Bancos de Dados:** Modelagem e otimização de queries em **Postgres e SQL Server**, com uso de **ORM's (Entity Framework, Prisma.js)**.  
+- **Mentoria Técnica:** Orientação de alunos da **DNC** na execução de projetos práticos para empresas parceiras, cobrindo:  
+  - Boas práticas de código e arquitetura.  
+  - Metodologias ágeis (Scrum/Kanban).  
+  - Resolução de problemas reais com stacks modernas (React, Node.js, etc.).  
 
-## Contato
-- **LinkedIn:** [Gabriel Angelo](https://www.linkedin.com/in/gabriel-angelo-4g)
-- **E-mail:** angelo3g@outlook.com
+---
 
+## **🎓 Educação**  
+- **Pós-graduação em Engenharia de Software** (Cursando)  
+- **Tecnólogo em Banco de Dados**  
+- **Técnico em Automação Industrial**  
+
+---
+
+## **📩 Contato**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-angelo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo3g@outlook.com)
