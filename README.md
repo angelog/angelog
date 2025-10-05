@@ -72,3 +72,5 @@ Especializado em soluções web escaláveis e high-performance, combinando lider
 ## **📩 Contato**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-angelo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo3g@outlook.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelog&layout=compact)
